@@ -69,6 +69,7 @@ body{
 .farea{
     width: 100%;
     height: 100px;
+    display: flex;
 }
 .tel{
     width: 25px;
